@@ -1,0 +1,22 @@
+BWA	/apps/bwa-0.7.13/bwa	0.7.13
+SAMTOOLS_PATH	/apps/samtools/1.3/bin/	1.3
+PICARD_PATH	/apps/picard-tools-1.53/	1.53
+SAMBLASTER	/apps/samblaster/samblaster	0.1.22
+GATK	/scratch/ratan/humans/code/GATK/GenomeAnalysisTK.jar	3.5
+SAMBAMBA	/apps/sambamba_0.6/sambamba_v0.6.0	0.6.0
+REF	/home/ankur/resources/human_g1k_v37_decoy.fasta	v37.decoy
+HAPMAP	/home/ankur/resources/hapmap_3.3.b37.vcf	3.3.b37
+OMNI	/home/ankur/resources/1000G_omni2.5.b37.vcf	2.5.b37
+1000G	/home/ankur/resources/1000G_phase1.snps.high_confidence.b37.vcf	phase1.b37
+DBSNP	/home/ankur/resources/dbsnp_138.b37.vcf	138.b37
+MILLSANDGOLDSTANDARD	/home/ankur/resources/Mills_and_1000G_gold_standard.indels.b37.vcf	b37
+PEDIGREE	/scratch/ankur/test/pedigree.txt
+TOTAL_THREADS	20
+READSPERFASTQ	1000000
+SPLIT_FLAG	1
+ADAPTRIM_FLAG	0
+ALIGN_FLAG	0
+SAMBAMBA_FLAG	0
+SAMTOOLS_FLAG	0
+STATS_FLAG	0
+VCF_FLAG	0

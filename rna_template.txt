@@ -1,0 +1,11 @@
+PICARD_PATH	/apps/picard-tools-1.53/	1.53
+SAMBAMBA	/apps/sambamba_0.6/sambamba_v0.6.0	0.6.0
+STAR	/apps/star/STAR-2.5.3a/bin/Linux_x86_64_static/STAR	2.5.3a	
+INDEX_DIR	/home/ankur/resources/
+REF	/home/ankur/resources/human_g1k_v37_decoy.fasta	v37.decoy
+TOTAL_THREADS	20
+READSPERFASTQ	1000000
+SPLIT_FLAG	1
+MERGE_FLAG	1
+SAMBAMBA_FLAG	1
+RNA_STAR	1
